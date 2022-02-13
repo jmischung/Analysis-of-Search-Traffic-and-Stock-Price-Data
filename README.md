@@ -18,7 +18,7 @@ This project leverages python 3.7 with the following packages:
 
 Before running the application first install the following dependencies.  
 
-__Important:__ `pystan` must be installed prior to install `prophet`.
+__Important:__ `pystan` must be installed prior to installing `prophet`.
 
 ```python
   pip install holoviews
