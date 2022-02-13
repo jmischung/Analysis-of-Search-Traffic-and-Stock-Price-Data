@@ -13,7 +13,6 @@ This project leverages python 3.7 with the following packages:
 - [holoviews](http://holoviews.org/) - For creating interactive plots
 - [prophit](https://facebook.github.io/prophet/) - For time series analysis and forecasting
 
----
 
 ## Installation Guide
 
